@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251219 04:24,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+20251220 04:26,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
 
 央视频道,#genre#
@@ -1807,6 +1807,7 @@ CCTV兵器科技,http://171.83.103.119:9999/rtp/239.69.1.79:10114
 CCTV兵器科技,http://sh.lnott.top:880/dx81.m3u8
 CCTV第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 CCTV第一剧场,http://dassby.qqff.top:99/live/第一剧场/index.m3u8
+CCTV第一剧场,http://hmfs.f3322.net:3388/hls/21/index.m3u8
 CCTV央视台球,http://171.83.103.119:9999/rtp/239.69.1.98:10224
 CCTV央视台球,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 CCTV央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
@@ -1819,6 +1820,7 @@ CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
 CCTV风云足球,http://dassby.qqff.top:99/live/风云足球/index.m3u8
 CCTV风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 CCTV风云足球,http://sh.lnott.top:880/dx71.m3u8
+CCTV风云足球,http://hmfs.f3322.net:3388/hls/9/index.m3u8
 CCTV高尔夫网球,http://183.220.107.138:4022/rtp/239.10.0.224:5140
 CCTV高尔夫网球,http://171.83.103.119:9999/rtp/239.69.1.83:10138
 CCTV高尔夫网球,http://sh.lnott.top:880/dx98.m3u8
@@ -2081,6 +2083,7 @@ CETV4,http://kkk.888.3116598.xyz/api.php?n=tttt&id=rhrCc8&tk=FgM0vQMejxvG
 浙江卫视,http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://61.184.46.85:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://t.061899.xyz/tl/tl.php?id=zjws
+浙江卫视,http://223.105.252.8/PLTV/4/224/3221228147/index.m3u8
 浙江卫视,http://218.13.170.98:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
 浙江卫视,http://171.113.208.108:4022/rtp/239.254.96.143:8932
@@ -2532,7 +2535,6 @@ CETV4,http://kkk.888.3116598.xyz/api.php?n=tttt&id=rhrCc8&tk=FgM0vQMejxvG
 北京卫视,http://k.061899.xyz/m.php?id=bjws
 北京卫视,https://smart.pendy.dpdns.org/Smart.php?id=beijing
 北京卫视,http://61.156.228.12:8154/tsfile/live/0122_1.m3u8
-北京卫视,http://223.105.252.8/PLTV/4/224/3221228115/index.m3u8
 北京卫视,http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8
 北京卫视,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E5%8F%B0
 北京卫视,http://121.235.95.126:8199/rtp/239.49.8.141:6000
@@ -2546,7 +2548,7 @@ CETV4,http://kkk.888.3116598.xyz/api.php?n=tttt&id=rhrCc8&tk=FgM0vQMejxvG
 北京卫视,http://182.150.23.74:808/hls/17/index.m3u8
 北京卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7438&tk=a0c4f6cfaba3
 北京卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2577&tk=b53028476470
-北京卫视,http://223.105.252.8/PLTV/4/224/3221227694/index.m3u8
+北京卫视,http://222.134.245.16:9901/tsfile/live/0122_1.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226445/index.m3u8
@@ -3067,6 +3069,7 @@ CETV4,http://kkk.888.3116598.xyz/api.php?n=tttt&id=rhrCc8&tk=FgM0vQMejxvG
 山东卫视,http://115.171.216.39:4000/rtp/225.1.8.50:8052
 山东卫视,http://t.061899.xyz/tl/tl.php?id=sdws
 山东卫视,http://k.061899.xyz/m.php?id=sdws
+山东卫视,http://223.105.252.8/PLTV/4/224/3221227448/index.m3u8
 山东卫视,http://218.13.170.98:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B0
 山东卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=sdws
@@ -3207,6 +3210,7 @@ CETV4,http://kkk.888.3116598.xyz/api.php?n=tttt&id=rhrCc8&tk=FgM0vQMejxvG
 广东卫视,http://120.238.94.82:9901/tsfile/live/1009_1.m3u8
 广东卫视,http://111.43.126.240:9003/hls/42/index.m3u8
 广东卫视,http://120.238.94.10:9901/tsfile/live/1008_1.m3u8
+广东卫视,http://223.105.252.8/PLTV/4/224/3221227445/index.m3u8
 广东卫视,http://218.13.170.98:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=W0ZnpE&tk=E5FFA3z1zLZC
 广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B0
@@ -3485,7 +3489,6 @@ CETV4,http://kkk.888.3116598.xyz/api.php?n=tttt&id=rhrCc8&tk=FgM0vQMejxvG
 江西卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
 江西卫视,http://121.235.95.126:8199/rtp/239.49.8.185:6000
 江西卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3763&tk=a0c4f6cfaba3
-江西卫视,http://182.150.23.74:808/hls/30/index.m3u8
 河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226448/index.m3u8
 河北卫视,http://39.134.67.108/PLTV/88888888/224/3221225961/1.m3u8
@@ -4706,6 +4709,7 @@ CETV4,http://kkk.888.3116598.xyz/api.php?n=tttt&id=rhrCc8&tk=FgM0vQMejxvG
 星空卫视,http://xhyx.gz.cn:1698/hls/35/index.m3u8
 星空卫视,http://36.36.200.198:44330/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+星空卫视,https://stream1.freetv.fun/a2764fcf64d61e4ea32f4f9972a630f99d2d3fac7cef4d2afb96818616f8e9d7.m3u8
 TVB翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 TVB翡翠,https://stream1.freetv.fun/fei-cui-12.m3u8
 TVB翡翠,https://stream1.freetv.fun/fei-cui-15.m3u8
@@ -4750,6 +4754,7 @@ TVB明珠,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
 TVB明珠,https://tv.iill.top/myTV/P&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
 TVB明珠,http://bxtv.3a.ink/api.php?id=mz
 TVB明珠,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
+TVB明珠,https://tv.iill.top/myTV/P&token=18d1c387d427be148b32f27842c48c0a118c85e789664b986bfa64b09da442be
 TVB明珠,https://php.946985.filegear-sg.me/mytv265.php?id=P
 TVB明珠,http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8
 TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
@@ -4829,6 +4834,7 @@ TVB无线新闻,https://php.946985.filegear-sg.me/mytv265.php?id=C
 TVB无线新闻,http://r.jdshipin.com/CkuBd
 TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 TVB无线新闻,https://smt.1789.dpdns.org/smt3.2.1.php?id=inews_twn
+TVB无线新闻,https://stream1.freetv.fun/fc27b3908a78de41f3e9bc37f460b885afe653d73baf65ecea825df2eb5212f3.ctv
 TVB娱乐新闻,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
 TVB娱乐新闻,https://live.catvod.com/iptv.php?id=tvbylxw&token=2c5054a64050c2d5b3120eb5ea1ef15d93217cd642c60575ea6547077293f053%3A1765586770%3ANTIuMjI1LjczLjE2MQ%3D%3D
 TVB娱乐新闻,https://live.catvod.com/iptv.php?id=tvbylxw&token=899829b71fc18b099dcb5dd672b59b059fa0d5fdd97ea8ea898a5938c690aa9b%3A1765586743%3ANTIuMjI1LjczLjE2MQ%3D%3D
@@ -5516,6 +5522,7 @@ Now财经,http://iptv.4666888.xyz/iptv2A.php?id=82
 亚洲新闻,https://php.946985.filegear-sg.me/mytv265.php?id=CCNA
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 创世电视,https://tv.iill.top/myTV/CRE&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
+创世电视,https://tv.iill.top/myTV/CRE&token=18d1c387d427be148b32f27842c48c0a118c85e789664b986bfa64b09da442be
 华视新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv052
 华视新闻,https://tv.iill.top/litv/4gtv-4gtv052
 华视新闻,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5036
