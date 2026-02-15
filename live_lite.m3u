@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz"
-#EXTINF:-1  tvg-name="20260215 04:28" tvg-logo="https://epg.112114.free.hr/logo/20260215 04:28.png"  group-title="更新时间",20260215 04:28
+#EXTINF:-1  tvg-name="20260216 04:29" tvg-logo="https://epg.112114.free.hr/logo/20260216 04:29.png"  group-title="更新时间",20260216 04:29
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://epg.112114.free.hr/logo/CCTV1.png"  group-title="央视频道",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -843,6 +843,8 @@ http://183.11.239.36:808/hls/17/index.m3u8
 http://219.146.95.58:59902/tsfile/live/0129_1.m3u8?txiptv
 #EXTINF:-1  tvg-name="厦门卫视" tvg-logo="https://epg.112114.free.hr/logo/厦门卫视.png"  group-title="卫视频道",厦门卫视
 https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv
+#EXTINF:-1  tvg-name="厦门卫视" tvg-logo="https://epg.112114.free.hr/logo/厦门卫视.png"  group-title="卫视频道",厦门卫视
+http://125.42.150.159:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1  tvg-name="吉林卫视" tvg-logo="https://epg.112114.free.hr/logo/吉林卫视.png"  group-title="卫视频道",吉林卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 #EXTINF:-1  tvg-name="吉林卫视" tvg-logo="https://epg.112114.free.hr/logo/吉林卫视.png"  group-title="卫视频道",吉林卫视
@@ -1615,8 +1617,6 @@ https://yylunbo.ottiptv.cc/yy/1414812324
 https://live.metshop.top/yy/1382736808
 #EXTINF:-1  tvg-name="甄子丹" tvg-logo="https://epg.112114.free.hr/logo/甄子丹.png"  group-title="电影频道",甄子丹
 https://stream1.freetv.fun/ef4f9d40bc9d730028e673c6c4f5d820079f93682e8b053886280a925dd8a275.ctv
-#EXTINF:-1  tvg-name="万合出品" tvg-logo="https://epg.112114.free.hr/logo/万合出品.png"  group-title="电影频道",万合出品
-https://goodiptv.club/douyu/9220456
 #EXTINF:-1  tvg-name="仙剑奇侠传" tvg-logo="https://epg.112114.free.hr/logo/仙剑奇侠传.png"  group-title="电视剧频道",仙剑奇侠传
 https://live.metshop.top/yy/1382749903
 #EXTINF:-1  tvg-name="知否知否" tvg-logo="https://epg.112114.free.hr/logo/知否知否.png"  group-title="电视剧频道",知否知否
@@ -1677,8 +1677,6 @@ https://live.metshop.top/yy/1382745184
 https://live.metshop.top/yy/1354930891
 #EXTINF:-1  tvg-name="陀枪师姐" tvg-logo="https://epg.112114.free.hr/logo/陀枪师姐.png"  group-title="电视剧频道",陀枪师姐
 https://live.metshop.top/yy/1382688521
-#EXTINF:-1  tvg-name="陀枪师姐" tvg-logo="https://epg.112114.free.hr/logo/陀枪师姐.png"  group-title="电视剧频道",陀枪师姐
-https://live.metshop.top/huya/29465857
 #EXTINF:-1  tvg-name="放羊的星星" tvg-logo="https://epg.112114.free.hr/logo/放羊的星星.png"  group-title="电视剧频道",放羊的星星
 https://live.metshop.top/yy/1355260662
 #EXTINF:-1  tvg-name="天道" tvg-logo="https://epg.112114.free.hr/logo/天道.png"  group-title="电视剧频道",天道

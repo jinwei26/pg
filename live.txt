@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260215 04:28,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+20260216 04:29,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
 
 央视频道,#genre#
@@ -427,6 +427,7 @@ CETV4,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 厦门卫视,http://183.11.239.36:808/hls/17/index.m3u8
 厦门卫视,http://219.146.95.58:59902/tsfile/live/0129_1.m3u8?txiptv
 厦门卫视,https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv
+厦门卫视,http://125.42.150.159:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226386/index.m3u8
 吉林卫视,http://39.134.67.108/PLTV/88888888/224/3221226013/1.m3u8
@@ -819,7 +820,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
 周星驰,https://live.metshop.top/yy/1382736808
 甄子丹,https://stream1.freetv.fun/ef4f9d40bc9d730028e673c6c4f5d820079f93682e8b053886280a925dd8a275.ctv
-万合出品,https://goodiptv.club/douyu/9220456
 
 
 电视剧频道,#genre#
@@ -853,7 +853,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 上海滩,https://live.metshop.top/yy/1382745184
 大时代,https://live.metshop.top/yy/1354930891
 陀枪师姐,https://live.metshop.top/yy/1382688521
-陀枪师姐,https://live.metshop.top/huya/29465857
 放羊的星星,https://live.metshop.top/yy/1355260662
 天道,https://live.metshop.top/yy/1382735574
 安家,https://live.metshop.top/yy/12086226
@@ -1012,6 +1011,7 @@ iHOT,#genre#
 金鹰卡通,http://58.57.40.22:9901/tsfile/live/1059_1.m3u8
 金鹰卡通,http://101.66.198.170:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 金鹰卡通,http://101.66.198.13:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://101.66.195.205:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 卡酷少儿,http://39.134.67.108/PLTV/88888888/224/3221225562/1.m3u8
@@ -1040,7 +1040,6 @@ iHOT,#genre#
 浙江少儿,http://kkk.888.3116598.xyz/api.php?n=tttt&id=rEiHkf&tk=FgM0vQMejxvG
 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 优漫卡通,http://tvbox6.icu/tv/migu.php?id=ymkt
-名侦探柯南,https://live.metshop.top/huya/30080236
 茶啊二中「动画」,https://live.iill.top/huya/11213191
 哆啦A梦「动漫」,https://live.iill.top/huya/11601963
 航海王「动漫」,https://live.iill.top/huya/16913382
