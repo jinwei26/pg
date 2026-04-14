@@ -3364,36 +3364,23 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/peterHchina/iptv/refs/head
 http://92.112.21.169:30000/mytv.m3u,#genre#
 https://web.banye.tech:7777/tv/hlj.txt,#genre#
 https://iptv.catvod.com/tv.m3u,#genre#
-[免费]CCTV7,https://iptv.catvod.com/catvod?id=CCTV7&line=1
-[免费]CCTV7,https://iptv.catvod.com/catvod?id=CCTV7&line=2
-[免费]CCTV7,https://iptv.catvod.com/catvod?id=CCTV7&line=3
-[免费]CCTV7,https://iptv.catvod.com/catvod?id=CCTV7&line=4
-[免费]CCTV7,https://iptv.catvod.com/catvod?id=CCTV7&line=5
-[免费]CCTV7,https://iptv.catvod.com/catvod?id=CCTV7&line=6
-[免费]CCTV7,https://iptv.catvod.com/catvod?id=CCTV7&line=7
-[免费]CCTV7,https://iptv.catvod.com/catvod?id=CCTV7&line=8
-[免费]CCTV7,https://iptv.catvod.com/catvod?id=CCTV7&line=9
-[免费]晴彩竞技,https://iptv.catvod.com/catvod?id=%E6%99%B4%E5%BD%A9%E7%AB%9E%E6%8A%80&line=1
-[免费]咪视通-41,https://iptv.catvod.com/catvod?id=%E5%92%AA%E8%A7%86%E9%80%9A-41&line=1
-[免费]山西卫视,https://iptv.catvod.com/catvod?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&line=1
-[免费]山西卫视,https://iptv.catvod.com/catvod?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&line=2
-[免费]山西卫视,https://iptv.catvod.com/catvod?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&line=3
-[免费]山西卫视,https://iptv.catvod.com/catvod?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&line=4
-[免费]西藏卫视,https://iptv.catvod.com/catvod?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&line=1
-[免费]西藏卫视,https://iptv.catvod.com/catvod?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&line=2
-[免费]西藏卫视,https://iptv.catvod.com/catvod?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&line=3
-[免费]西藏卫视,https://iptv.catvod.com/catvod?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&line=4
-[免费]宁夏卫视,https://iptv.catvod.com/catvod?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=1
-[免费]宁夏卫视,https://iptv.catvod.com/catvod?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=2
-[免费]宁夏卫视,https://iptv.catvod.com/catvod?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=3
-[免费]安徽卫视,https://iptv.catvod.com/catvod?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=1
-[免费]安徽卫视,https://iptv.catvod.com/catvod?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=2
-[免费]安徽卫视,https://iptv.catvod.com/catvod?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=3
-[免费]安徽卫视,https://iptv.catvod.com/catvod?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=4
-[免费]江西卫视,https://iptv.catvod.com/catvod?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&line=1
-[免费]江西卫视,https://iptv.catvod.com/catvod?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&line=2
-[免费]江西卫视,https://iptv.catvod.com/catvod?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&line=3
-[免费]咪视通-32,https://iptv.catvod.com/catvod?id=%E5%92%AA%E8%A7%86%E9%80%9A-32&line=1
+[免费]咪视通-29,https://iptv.catvod.com/catvod?id=%E5%92%AA%E8%A7%86%E9%80%9A-29&line=1
+[免费]晴彩青少,https://iptv.catvod.com/catvod?id=%E6%99%B4%E5%BD%A9%E9%9D%92%E5%B0%91&line=1
+[免费]CCTV风云音乐,https://iptv.catvod.com/catvod?id=CCTV%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90&line=1
+[免费]陕西卫视,https://iptv.catvod.com/catvod?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=1
+[免费]陕西卫视,https://iptv.catvod.com/catvod?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=2
+[免费]陕西卫视,https://iptv.catvod.com/catvod?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=3
+[免费]青海卫视,https://iptv.catvod.com/catvod?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&line=1
+[免费]青海卫视,https://iptv.catvod.com/catvod?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&line=2
+[免费]青海卫视,https://iptv.catvod.com/catvod?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&line=3
+[免费]青海卫视,https://iptv.catvod.com/catvod?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&line=4
+[免费]咪视通-27,https://iptv.catvod.com/catvod?id=%E5%92%AA%E8%A7%86%E9%80%9A-27&line=1
+[免费]咪视通-5,https://iptv.catvod.com/catvod?id=%E5%92%AA%E8%A7%86%E9%80%9A-5&line=1
+[免费]甘肃卫视,https://iptv.catvod.com/catvod?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&line=1
+[免费]甘肃卫视,https://iptv.catvod.com/catvod?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&line=2
+[免费]甘肃卫视,https://iptv.catvod.com/catvod?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&line=3
+[免费]甘肃卫视,https://iptv.catvod.com/catvod?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&line=4
+[免费]咪视通-37,https://iptv.catvod.com/catvod?id=%E5%92%AA%E8%A7%86%E9%80%9A-37&line=1
 
 
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/电视.txt,#genre#
@@ -3415,35 +3402,15 @@ https://live.izbds.com/tv/iptv4.m3u,#genre#
 古装武侠,http://www.goodiptv.club/douyu/2793084
 斗鱼港剧,http://www.goodiptv.club/douyu/5061550
 橙记港剧,http://www.goodiptv.club/douyu/4549169
-电影丧尸片,http://live.metshop.top/huya/21059578?cdn=alicdn
-电影八点档,http://live.metshop.top/huya/880261?cdn=alicdn
-电影刘德华,http://live.metshop.top/huya/11342424?cdn=alicdn
-电影动作电影,http://live.metshop.top/huya/11602077?cdn=alicdn
-电影嫣然影厅,http://live.metshop.top/huya/11601977?cdn=alicdn
-电影战争片,http://live.metshop.top/huya/21059574?cdn=alicdn
-电影搞笑喜剧,http://live.metshop.top/huya/11342423?cdn=alicdn
-电影梁家辉,http://live.metshop.top/huya/11342429?cdn=alicdn
-电影谍战,http://live.metshop.top/huya/21059585?cdn=alicdn
-电影贺岁,http://live.metshop.top/huya/11601971?cdn=alicdn
 经典剧集,http://www.goodiptv.club/douyu/6863367
 贝爷求生,http://www.goodiptv.club/douyu/9661369
 七龙珠,https://live.metshop.top/huya/11601966
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
-什邡新闻,http://live.sfrmt.com:85/live/zhpd.m3u8?zsicd
-句容党建,http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
-句容生活,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-合肥新闻,http://112.27.235.94:8000/hls/18/index.m3u8
-安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
-宜兴紫砂,http://3gvod.zjgonline.com.cn:1935/live/_definst_/xinwenzonghe_app/chunklist.m3u8
-常熟民生,http://3gvod.zjgonline.com.cn:1935/live/_definst_/shehuishenghuo_app/chunklist.m3u8
-延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
-武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
-武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 玛纳斯,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
+JJ斗地主,https://live.iill.top/douyin/685317364746
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 
 
@@ -3451,6 +3418,7 @@ https://live.izbds.com/tv/iptv6.m3u,#genre#
 
 
 https://tv.iill.top/m3u/Gather,#genre#
+HBO「回看/12H」,https://hls.iill.top/test/HBO/index.m3u8
 CCTV1综合「Relay」,https://v.iill.top/api/CCTV1/index.m3u8
 CCTV2财经「Relay」,https://v.iill.top/api/CCTV2/index.m3u8
 CCTV3综艺「Relay」,https://v.iill.top/api/CCTV3/index.m3u8
@@ -3475,6 +3443,8 @@ CCTV15音乐「Relay」,https://v.iill.top/api/CCTV15/index.m3u8
 湖南卫视「Relay」,https://v.iill.top/api/hnws/index.m3u8
 四川卫视「Relay」,https://v.iill.top/api/scws/index.m3u8
 凤凰卫视·中文「回看」,https://tv.iill.top/phenix/fhzw
+雷霆881「电台」,https://rd.167.de5.net/radio/881hd/chunks.m3u8
+叱咤903「电台」,https://rd.167.de5.net/radio/903hd/chunks.m3u8
 博斯无限一「FainTV」,https://v.iill.top/tw/Unlimited-Channel/index.m3u8
 博斯无限二「FainTV」,https://v.iill.top/tw/Unlimited-Channel-2/index.m3u8
 博斯高球一「FainTV」,https://v.iill.top/tw/Golf-Channel/index.m3u8
@@ -3823,27 +3793,26 @@ https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
-Animax[geo-blocked],https://stream1.freetv.fun/22533ba24851d09bfccf1c6f4b62a817460c3125a602af324ae0756416aff8ff.m3u8
 fifapluswomen[geo-blocked],https://stream1.freetv.fun/37352d9c0bf11af3c0f24364a03a8847b73ae1cc541b6a8ccdcb34db009cc9c5.m3u8
 skytennisplus[geo-blocked],https://stream1.freetv.fun/2d6e73d0614e0189e8ef36009f913c87f854b8f1141913f219937c535b660f6b.ctv
 cctv1,https://stream1.freetv.fun/1e233c3fa02ad66a59876f9f9d5500a9b99b490836014ad39c51e69a17b3c563.ctv
-cctv1,https://stream1.freetv.fun/600a610ee4d2acf3e80fecb59d9d6f5a04fe9ef39934142463cbf6ed3b0c96df.ctv
-cctv1综合,https://stream1.freetv.fun/5ea694dedf81eabc3a9363cac99632afadb3d416016b833315847e5d1ee5dd3e.ctv
 cctv-4k超[geo-blocked],https://stream1.freetv.fun/2e338d7416c3646f38a085799295f137668d96a80a4393b71f1b82735ebdc7e8.ctv
 cctv-4k超[geo-blocked],https://stream1.freetv.fun/4cafcde3d88c72f22b5dc9502959f95ef75cc5eb8db1eda9f0043784504b57c4.ctv
-cctv-4k超[geo-blocked],https://stream1.freetv.fun/c65a629c9e66ecd8e19b54929697db5a572222bf2969e74f81551a9e65148187.ctv
+cctv-4k超,https://stream1.freetv.fun/c65a629c9e66ecd8e19b54929697db5a572222bf2969e74f81551a9e65148187.ctv
 cctv1,https://stream1.freetv.fun/56bb2798547709689d4c2d0662c857ab83d5f51af031b269772632b65a0fdd4f.m3u8
 cctv1,https://stream1.freetv.fun/1483088efd7ab9016cddde8af62618522970a067178e339d9da8e0cb447e1e00.m3u8
 cctv1,https://stream1.freetv.fun/31f1a5c3a963625aff1eb70a33e10695ddabfc1d0f6c0c4e8bfeadf9d62a225e.m3u8
 cctv1综合,https://stream1.freetv.fun/1fb3f86be0eebb643de89f0b93f912bf1b2c513819c63050a91cf9cdfe4ab196.ctv
+hoytv[geo-blocked],https://stream1.freetv.fun/a8a4700097401627b1a4c2b7e0ffa7f9077c33e3f37cc362d77403dccf954d24.m3u8
+now新闻[geo-blocked],https://stream1.freetv.fun/60ac4015a508533f429e33b5d560c3f5b07a3f99a362214308f832a4f5bc138b.m3u8
 tvb华丽,https://stream1.freetv.fun/10e310c5f0a1dc8c0c5d76a0800a0d2950687756864f9885429ed0d9868ffd1e.ctv
 viutv6,https://stream1.freetv.fun/c34b453ddb57c4641e22202a5d868b398148f0d4f86cc98beccb2f49ebcd755a.ctv
-viutv[geo-blocked],https://stream1.freetv.fun/ad77293b3968d9314a0a612d10a82fcd2617e3370c750355a5ff31cced30ca13.ctv
+viutv,https://stream1.freetv.fun/6e51cfdfdd9988358bd19ac505badd794b005798348da2715479b55057f921a5.m3u8
 无线新闻[geo-blocked],rtmp://163.204.116.62/live/xaingjiaoge-wxxw
 翡翠[geo-blocked],rtmp://223.76.215.33/live/xaingjiaoge-jade
 凤凰卫视中文[geo-blocked],https://stream1.freetv.fun/abf0dd89a3d8030e6464e736ad8b2c92c562eee2c9e491fa324de6b5d50b558a.ctv
 凤凰卫视中文[geo-blocked],https://stream1.freetv.fun/2d974525773570a12819a6597a3b0349bd9856ea05c91633862035caed14376d.ctv
-凤凰卫视资讯[geo-blocked],https://stream1.freetv.fun/775da45dedb5d0e2186c592c1a582aabe6893f527089d022ba7104e2471c96cf.ctv
+凤凰卫视资讯,https://stream1.freetv.fun/775da45dedb5d0e2186c592c1a582aabe6893f527089d022ba7104e2471c96cf.ctv
 
 
 https://gh.tryxd.cn/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt,#genre#
@@ -3854,7 +3823,6 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_ipv
 https://gh.tryxd.cn/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_ipv6.txt,#genre#
 https://gh.tryxd.cn/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u,#genre#
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
-美亚电影,http://zjrtv.vip/live/?tbs=mydy
 江苏城市,https://mgtv.ottiptv.cc/migu/626064714.m3u8?migutoken=02cafbc9d94c9e5e26c383c50287313c55f7e68abea08e811428e9b13cd8e46f93919d1a0859b1c76d8e4e78e1f7b8a6f89d71daf38a8275ac7633b59bcdb7cbf189e3152afb4fa80fadf4b134
 
 
