@@ -3136,25 +3136,54 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/peterHchina/iptv/refs/head
 http://92.112.21.169:30000/mytv.m3u,#genre#
 https://web.banye.tech:7777/tv/hlj.txt,#genre#
 https://iptv.catvod.com/tv.m3u,#genre#
-[免费]体育休闲频道,https://iptv.catvod.com/catvod?id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&line=1
-[免费]体育休闲频道,https://iptv.catvod.com/catvod?id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&line=2
-[免费]咪视通-45,https://iptv.catvod.com/catvod?id=%E5%92%AA%E8%A7%86%E9%80%9A-45&line=1
-[免费]咪视通-25,https://iptv.catvod.com/catvod?id=%E5%92%AA%E8%A7%86%E9%80%9A-25&line=1
-[免费]CGTN阿拉伯语,https://iptv.catvod.com/catvod?id=CGTN%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD&line=1
-[免费]CGTN阿拉伯语,https://iptv.catvod.com/catvod?id=CGTN%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD&line=2
-[免费]和美乡途轮播台,https://iptv.catvod.com/catvod?id=%E5%92%8C%E7%BE%8E%E4%B9%A1%E9%80%94%E8%BD%AE%E6%92%AD%E5%8F%B0&line=1
-[免费]和美乡途轮播台,https://iptv.catvod.com/catvod?id=%E5%92%8C%E7%BE%8E%E4%B9%A1%E9%80%94%E8%BD%AE%E6%92%AD%E5%8F%B0&line=2
-[免费]咪视通-41,https://iptv.catvod.com/catvod?id=%E5%92%AA%E8%A7%86%E9%80%9A-41&line=1
-[免费]晴彩广场舞,https://iptv.catvod.com/catvod?id=%E6%99%B4%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E&line=1
-[免费]咪视通-43,https://iptv.catvod.com/catvod?id=%E5%92%AA%E8%A7%86%E9%80%9A-43&line=1
-[免费]东方卫视,https://iptv.catvod.com/catvod?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=1
-[免费]东方卫视,https://iptv.catvod.com/catvod?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=2
-[免费]东方卫视,https://iptv.catvod.com/catvod?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=3
-[免费]东方卫视,https://iptv.catvod.com/catvod?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=4
-[免费]东方卫视,https://iptv.catvod.com/catvod?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=5
-[免费]东方卫视,https://iptv.catvod.com/catvod?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&line=6
+[免费]CCTV12,https://iptv.catvod.com/catvod?id=CCTV12&line=1
+[免费]CCTV12,https://iptv.catvod.com/catvod?id=CCTV12&line=2
+[免费]CCTV12,https://iptv.catvod.com/catvod?id=CCTV12&line=3
+[免费]CCTV12,https://iptv.catvod.com/catvod?id=CCTV12&line=4
+[免费]CCTV12,https://iptv.catvod.com/catvod?id=CCTV12&line=5
+[免费]CCTV12,https://iptv.catvod.com/catvod?id=CCTV12&line=6
+[免费]CCTV12,https://iptv.catvod.com/catvod?id=CCTV12&line=7
+[免费]CCTV12,https://iptv.catvod.com/catvod?id=CCTV12&line=8
+[免费]CCTV12,https://iptv.catvod.com/catvod?id=CCTV12&line=9
+[免费]CCTV12,https://iptv.catvod.com/catvod?id=CCTV12&line=10
+[免费]CCTV4,https://iptv.catvod.com/catvod?id=CCTV4&line=1
+[免费]CCTV4,https://iptv.catvod.com/catvod?id=CCTV4&line=2
+[免费]CCTV4,https://iptv.catvod.com/catvod?id=CCTV4&line=3
+[免费]CCTV4,https://iptv.catvod.com/catvod?id=CCTV4&line=4
+[免费]CCTV4,https://iptv.catvod.com/catvod?id=CCTV4&line=5
+[免费]CCTV4,https://iptv.catvod.com/catvod?id=CCTV4&line=6
+[免费]CCTV4,https://iptv.catvod.com/catvod?id=CCTV4&line=7
+[免费]CCTV4,https://iptv.catvod.com/catvod?id=CCTV4&line=8
+[免费]CCTV4,https://iptv.catvod.com/catvod?id=CCTV4&line=9
+[免费]CCTV4,https://iptv.catvod.com/catvod?id=CCTV4&line=10
+[免费]CCTV4,https://iptv.catvod.com/catvod?id=CCTV4&line=11
+[免费]CGTN俄语,https://iptv.catvod.com/catvod?id=CGTN%E4%BF%84%E8%AF%AD&line=3
 [免费]中学生,https://iptv.catvod.com/catvod?id=%E4%B8%AD%E5%AD%A6%E7%94%9F&line=1
 [免费]中学生,https://iptv.catvod.com/catvod?id=%E4%B8%AD%E5%AD%A6%E7%94%9F&line=2
+[免费]中学生,https://iptv.catvod.com/catvod?id=%E4%B8%AD%E5%AD%A6%E7%94%9F&line=3
+[免费]南京十八频道,https://iptv.catvod.com/catvod?id=%E5%8D%97%E4%BA%AC%E5%8D%81%E5%85%AB%E9%A2%91%E9%81%93&line=1
+[免费]南京十八频道,https://iptv.catvod.com/catvod?id=%E5%8D%97%E4%BA%AC%E5%8D%81%E5%85%AB%E9%A2%91%E9%81%93&line=2
+[免费]南京十八频道,https://iptv.catvod.com/catvod?id=%E5%8D%97%E4%BA%AC%E5%8D%81%E5%85%AB%E9%A2%91%E9%81%93&line=3
+[免费]咪视通-16,https://iptv.catvod.com/catvod?id=%E5%92%AA%E8%A7%86%E9%80%9A-16&line=1
+[免费]咪视通-29,https://iptv.catvod.com/catvod?id=%E5%92%AA%E8%A7%86%E9%80%9A-29&line=1
+[免费]咪视通-3,https://iptv.catvod.com/catvod?id=%E5%92%AA%E8%A7%86%E9%80%9A-3&line=1
+[免费]江苏卫视,https://iptv.catvod.com/catvod?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=1
+[免费]江苏卫视,https://iptv.catvod.com/catvod?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=2
+[免费]江苏卫视,https://iptv.catvod.com/catvod?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=3
+[免费]江苏卫视,https://iptv.catvod.com/catvod?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=4
+[免费]江苏卫视,https://iptv.catvod.com/catvod?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=5
+[免费]江苏卫视,https://iptv.catvod.com/catvod?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=6
+[免费]江苏卫视,https://iptv.catvod.com/catvod?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=7
+[免费]江苏卫视,https://iptv.catvod.com/catvod?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=8
+[免费]江苏卫视,https://iptv.catvod.com/catvod?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=9
+[免费]江苏卫视,https://iptv.catvod.com/catvod?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=10
+[免费]江苏卫视,https://iptv.catvod.com/catvod?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=11
+[免费]陕西卫视,https://iptv.catvod.com/catvod?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=1
+[免费]陕西卫视,https://iptv.catvod.com/catvod?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=2
+[免费]陕西卫视,https://iptv.catvod.com/catvod?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=3
+[免费]陕西卫视,https://iptv.catvod.com/catvod?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=4
+[免费]陕西卫视,https://iptv.catvod.com/catvod?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=5
+[免费]陕西卫视,https://iptv.catvod.com/catvod?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=6
 
 
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/电视.txt,#genre#
@@ -3174,13 +3203,11 @@ https://live.iptv-free.com/iptv/languages/zho.m3u,#genre#
 
 
 https://live.izbds.com/tv/iptv4.m3u,#genre#
-支持作者,https://vd2.bdstatic.com/mda-sctj0f96cn79js4n/1080p/cae_h264/1774710384405617311/mda-sctj0f96cn79js4n.mp4
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
 靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
 冰冰影剧,http://www.goodiptv.club/douyu/74374
 古装武侠,http://www.goodiptv.club/douyu/2793084
 橙记港剧,http://www.goodiptv.club/douyu/4549169
-贝爷求生,http://www.goodiptv.club/douyu/9661369
 龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
 七龙珠,https://live.metshop.top/huya/11601966
 七台河民生社教,http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
@@ -3193,7 +3220,6 @@ https://live.izbds.com/tv/iptv4.m3u,#genre#
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 玛纳斯,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
-JJ斗地主,https://live.iill.top/douyin/685317364746
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 2002年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
 
@@ -3279,13 +3305,13 @@ https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
 cctv-12社会与法,https://stream1.freetv.fun/8fec588fa09e356552f56f5e64a875f44c72f6ef785b0d2b4bbd6527f64e804e.ctv
 cctv-8电视剧,https://stream1.freetv.fun/a59ac83779cb5370427192e331ba9f3d9f8dae2194dbe08c2cc23df97e30ae2e.ctv
-cctv-5体育,https://stream1.freetv.fun/879e5711563465069616775f329a9231f38887c8146e7e06f2a86f766caa774d.ctv
+cctv-5体育[geo-blocked],https://stream1.freetv.fun/879e5711563465069616775f329a9231f38887c8146e7e06f2a86f766caa774d.ctv
+cctv-1综合,https://stream1.freetv.fun/4669e2d95985f2b9df7690407b9c16ae20864ad0961e7c041bddaa8b97c0e08c.ctv
+cctv-9纪录,https://stream1.freetv.fun/bac2107c8204c290efc6c6224146418641af787e31995157d64d567afbc00279.ctv
+robotwarsbymechplus,https://stream1.freetv.fun/2e05d66c7bb09b676478692c74a5296cf532039b893d099e8cc51fa282d13bc9.m3u8
 rally.tvfastplus,https://stream1.freetv.fun/3409f0e9e4e1930cbbabf9f2ae07d2a81fb1cce5f840bd11e9f74548666bfeb1.m3u8
 cctv1综合,https://stream1.freetv.fun/e2d614c15f9f44a66769286821f4e204843fbb1ea976d65e2e7380425aa5b412.ctv
-cctv-4k超[geo-blocked],https://stream1.freetv.fun/3788e4fd295011461ce6ef1f10f19c7a7b379cd6adc4e7892222e5b140f1fb0f.ctv
-cctv-4k超[geo-blocked],https://stream1.freetv.fun/4cafcde3d88c72f22b5dc9502959f95ef75cc5eb8db1eda9f0043784504b57c4.ctv
-cctv-4k超[geo-blocked],https://stream1.freetv.fun/c65a629c9e66ecd8e19b54929697db5a572222bf2969e74f81551a9e65148187.ctv
-now爆谷[geo-blocked],https://stream1.freetv.fun/228841b860214b110c289d2d381b5a16550fb64448385b6ee78e15d64dc4b547.m3u8
+cctv-4k超,https://stream1.freetv.fun/c65a629c9e66ecd8e19b54929697db5a572222bf2969e74f81551a9e65148187.ctv
 tvbplus[geo-blocked],rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-tvbplus
 tvb星河[geo-blocked],https://stream1.freetv.fun/f553d3c3c7a25ef17b321d43efcf15bd4e25ac5a18532180f6438672c41d38f2.m3u8
 tvb星河,https://stream1.freetv.fun/d4be0905b1104b315b8d107da575402c0eaa69f94545650bc3e0471830c36d35.m3u8
@@ -3297,7 +3323,7 @@ tvb黄金华剧[geo-blocked],https://stream1.freetv.fun/56f9c04ac1e302b494df286a
 凤凰中文[geo-blocked],rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
 凤凰中文[geo-blocked],https://stream1.freetv.fun/a3cfcb6f4429baaa2f182afaf1ab55003d71ca680ca0afd61968d36b33f26f03.m3u8
 凤凰卫视资讯,https://stream1.freetv.fun/c3ea4ea86c58594aa80ca15cbc03968e7481243ea39ad553e617442c6017362a.m3u8
-凤凰卫视资讯[geo-blocked],https://stream1.freetv.fun/fe31eaf5bb86cd05e17cde36410d5291e290a6380274cb40313ccf2da19cf6cd.ctv
+凤凰卫视资讯,https://stream1.freetv.fun/fe31eaf5bb86cd05e17cde36410d5291e290a6380274cb40313ccf2da19cf6cd.ctv
 凤凰资讯[geo-blocked],rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
 凤凰卫视香港,https://stream1.freetv.fun/befd2cea5524857b26687c6c5ede8b698f02c45d4ae98400ee0fdf0b7f358de1.m3u8
 凤凰香港[geo-blocked],rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhxg
@@ -3499,11 +3525,16 @@ group-title="数字"_zz-definition="HD",重温经典
 
 
 https://m3u.ibert.me/txt/y_g.txt,#genre#
-「虎牙」CS_2,https://live.iill.top/huya/483917
-挨饿德•1「其他」,https://live.iill.top/huya/20985858
-挨饿德•2「其他」,https://live.iill.top/huya/17693860
-互扇巴掌大赛「其他」,https://live.iill.top/huya/20072873
-野行者「其他」,https://live.iill.top/huya/20072663
+免费订阅：请勿贩卖...,https://epg.yang-1989.eu.org/v/302.mp4
+维护时间：2025-1-15#佛系维护...,https://epg.yang-1989.eu.org/v/301.mp4
+「虎牙」CS_2,https://cdn-3.ttvb.eu.org/huya/483917
+音乐速递「音乐」,https://cdn-3.ttvb.eu.org/huya/19439762
+挨饿德•1「其他」,https://cdn-3.ttvb.eu.org/huya/20985858
+挨饿德•2「其他」,https://cdn-3.ttvb.eu.org/huya/17693860
+互扇巴掌大赛「其他」,https://cdn-3.ttvb.eu.org/huya/20072873
+荒野求生「其他」,https://cdn-3.ttvb.eu.org/huya/593667
+野行者「其他」,https://cdn-3.ttvb.eu.org/huya/20072663
+跳舞「其他」,https://cdn-3.ttvb.eu.org/huya/24634408
 
 
 http://xhztv.top/v6.txt,#genre#
