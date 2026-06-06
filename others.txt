@@ -2239,12 +2239,11 @@ https://live.iptv-free.com/iptv/languages/zho.m3u,#genre#
 https://live.izbds.com/tv/iptv4.m3u,#genre#
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 电影动作电影,http://live.metshop.top/huya/11602077?cdn=alicdn
+电影蜘蛛侠,http://live.metshop.top/huya/21059599?cdn=alicdn
 延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 沭阳综合,https://shuyang-tv-hls.cm.jstv.com:443/shuyang-tv/shuyangzh.m3u8
-福建公共,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=2987cc24bada6a8c25589409a6452d9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=8f26765ebf367079cef58c6b7752da1e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
-玛纳斯,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
-通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 
 
@@ -2416,13 +2415,15 @@ https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
 cctv-8电视剧,https://stream1.freetv.fun/a59ac83779cb5370427192e331ba9f3d9f8dae2194dbe08c2cc23df97e30ae2e.ctv
 cctv-1综合,https://stream1.freetv.fun/4669e2d95985f2b9df7690407b9c16ae20864ad0961e7c041bddaa8b97c0e08c.ctv
 cctv-9纪录,https://stream1.freetv.fun/bac2107c8204c290efc6c6224146418641af787e31995157d64d567afbc00279.ctv
+cctv-1,https://stream1.freetv.fun/4e7345ef85f31653e51c5cfe029256a93ae4a56361f120edf824f7b10d8c92aa.m3u8
+cctv-1,https://stream1.freetv.fun/f39b96f77156e6dcf68b7c8679dc1ef1453a3039e8c87a8c5ed5cc3eeb82f571.m3u8
 cctv-4k超,https://stream1.freetv.fun/3788e4fd295011461ce6ef1f10f19c7a7b379cd6adc4e7892222e5b140f1fb0f.ctv
+cctv-1,https://stream1.freetv.fun/8a0402b17a9ae7bcb68cd3da6d8c017dcf3c51cab653b0003dadf377723fef92.m3u8
 hoy资讯[geo-blocked],https://stream1.freetv.fun/b24a7d739a39cf40d6bf27b97c643af4f960493a5ee642d73eaca825b40d2823.m3u8
 hoy资讯,https://stream1.freetv.fun/d131ddf4da2e19800696e9c1b73383b83493d2604fe64afcf79555d98c74529c.ctv
 now新闻[geo-blocked],https://stream1.freetv.fun/20616f66b86683e10fd7ea8e601cf70ac08ba2a8b3c17241fcf398fcdec43753.m3u8
 tvbplus1[geo-blocked],https://stream1.freetv.fun/79fe2a2693c2d51c20d8256be713d1b0befef65e0631489a52653b37b13d242b.ctv
-无线新闻[geo-blocked],https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.ctv
-无线新闻[geo-blocked],https://stream1.freetv.fun/d10385fcef54a3202d8f7dfb4ec5efcb3dec413590fa74f2f77d015bc9faab39.m3u8
+明珠,https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.ctv
 无线新闻1[geo-blocked],https://stream1.freetv.fun/af065e0c98676802cea4635a08771ac1c97d6f89a4662481dbb52bcd82f92fdd.ctv
 翡翠,https://stream1.freetv.fun/2d6d5de01dfd6fdcaaf4fe4b5ab0188eb1849a91fee22cc73276e6737ce055a8.ctv
 翡翠,https://stream1.freetv.fun/b6805e649e0c7b8193b4fd6d6b407675b3254a0eca4b30ef8ed033b5202b285e.m3u8
@@ -2453,6 +2454,7 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-
 
 
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
+福建公共,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=2987cc24bada6a8c25589409a6452d9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 
 https://jihulab.com/-/snippets/5265/raw/main/.txt,#genre#
@@ -2666,6 +2668,10 @@ https://m3u.ibert.me/txt/o_cn.txt,#genre#
 CCTV13_,http://go.bkpcp.top/mg/cctv13
 CCTV8K_,http://198.204.240.250:82/live/cctv8k.m3u8
 VOA美国之音_,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+Xinjiang_TV_2,http://110.153.180.106:55555/out_3/index.m3u8
+Xinjiang_TV_3,http://110.153.180.106:55555/out_2/index.m3u8
+Xinjiang_TV_5,http://106.124.91.222:9901/tsfile/live/21216_1.m3u8?authid=0&key=txiptv&playlive=0
+Xinjiang_TV_8,http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 CCTV14_,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV1_,http://69.30.245.50/live/cctv1.m3u8
 CCTV4K_,http://198.204.240.250:82/live/cctv4k.m3u8
