@@ -2148,11 +2148,16 @@ https://live.iptv-free.com/iptv/languages/zho.m3u,#genre#
 https://live.izbds.com/tv/iptv4.m3u,#genre#
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 古装武侠,http://www.goodiptv.club/douyu/2793084
-电影刘德华,http://live.metshop.top/huya/11342424?cdn=alicdn
+电影动作电影,http://live.metshop.top/huya/11602077?cdn=alicdn
+电影战争片,http://live.metshop.top/huya/21059574?cdn=alicdn
+电影谍战,http://live.metshop.top/huya/21059585?cdn=alicdn
+电影谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
 贝爷求生,http://www.goodiptv.club/douyu/9661369
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 句容生活,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+宜兴紫砂,http://3gvod.zjgonline.com.cn:1935/live/_definst_/xinwenzonghe_app/chunklist.m3u8
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
+福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=221239fcf3c7edb274f2f0760fe47f96&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 玛纳斯,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
@@ -2322,12 +2327,14 @@ https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
 cctv-1[geo-blocked],https://stream1.freetv.fun/aca593418a5d387996e89adf3a0452856e5623d7759d2ff35078a7e3968f47e8.m3u8
+cctv-1[geo-blocked],https://stream1.freetv.fun/4e7345ef85f31653e51c5cfe029256a93ae4a56361f120edf824f7b10d8c92aa.ctv
 cctv-4k超,https://stream1.freetv.fun/c65a629c9e66ecd8e19b54929697db5a572222bf2969e74f81551a9e65148187.ctv
 cctv-4k超,https://stream1.freetv.fun/bc0e7d78a28a34c3739c60417fe57c040d9b3fd049bb04ad91d6c45683548233.ctv
+cctv1综合,https://stream1.freetv.fun/1fb3f86be0eebb643de89f0b93f912bf1b2c513819c63050a91cf9cdfe4ab196.ctv
 tvbplus,https://stream1.freetv.fun/391d21caea3269c8477f1c3fc0f24bbfded5d4f4fcf1d63d96b5cd8574792a34.ctv
+tvplus,https://stream1.freetv.fun/2f80d36164c17d73393a9a44c7d948bd6cf288781e902ddbc0d05d53f0068150.m3u8
 凤凰卫视中文,https://stream1.freetv.fun/bde4a425201648653d2bab6e1b9e58d3602d8919739ae8a0eb33e1c97ff205a8.ctv
 凤凰卫视资讯,https://stream1.freetv.fun/f690170414a3ba9ddf0bbff3d2a1deeeccc37ab6c9198cd270d404412200f38c.ctv
-凤凰资讯[geo-blocked],https://stream1.freetv.fun/9cb86e77a2a19ece5a5ee90f18c9dd578dab4a8f3a0844fbd56b6a87db6746fb.ctv
 
 
 https://gh.tryxd.cn/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt,#genre#
@@ -2348,6 +2355,7 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-
 
 
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
+镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 
 
 https://jihulab.com/-/snippets/5265/raw/main/.txt,#genre#
@@ -2471,8 +2479,21 @@ https://iptv-org.github.io/iptv/languages/zho.m3u,#genre#
 
 
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
+ABCNewsLive1,https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
+ABCNewsLive2,https://abcnews-streams.akamaized.net/hls/live/2023561/abcnewshudson2/master.m3u8
+ABCNewsLive3,https://abcnews-streams.akamaized.net/hls/live/2023562/abcnewshudson3/master.m3u8
+ABCNewsLive4,https://abcnews-streams.akamaized.net/hls/live/2023563/abcnewshudson4/master.m3u8
+ABCNewsLive5,https://abcnews-streams.akamaized.net/hls/live/2023564/abcnewshudson5/master.m3u8
+ABCNewsLive6,https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master.m3u8
+ABCNewsLive7,https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master.m3u8
+ABCNewsLive8,https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master.m3u8
+ABCNewsLive9,https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master.m3u8
+ABCNewsLive10,https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master.m3u8
 America'sVoiceNews,https://jmp2.uk/plu-5e1f7da4bc7d740009831259.m3u8
+B4UMoviesUSA(576p),http://41.223.30.230/B4UPLUS/index.m3u8
+BBCAmerica,http://23.239.31.26:8989/bbcamerica/index.m3u8
 DidgahTV(576p),https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
+FoxNewsChannel,http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 GlobalWorldTV,https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
 HarvestUSA(576p),https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
 NewKPOP,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
