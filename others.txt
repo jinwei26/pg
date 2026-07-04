@@ -2741,6 +2741,13 @@ https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
+cctv-12社会与法,https://stream1.freetv.fun/8fec588fa09e356552f56f5e64a875f44c72f6ef785b0d2b4bbd6527f64e804e.ctv
+cctv-4k超,https://stream1.freetv.fun/3788e4fd295011461ce6ef1f10f19c7a7b379cd6adc4e7892222e5b140f1fb0f.ctv
+cctv-4k超,https://stream1.freetv.fun/4cafcde3d88c72f22b5dc9502959f95ef75cc5eb8db1eda9f0043784504b57c4.ctv
+cctv-4k超,https://stream1.freetv.fun/bc0e7d78a28a34c3739c60417fe57c040d9b3fd049bb04ad91d6c45683548233.ctv
+凤凰卫视中文,https://stream1.freetv.fun/bde4a425201648653d2bab6e1b9e58d3602d8919739ae8a0eb33e1c97ff205a8.ctv
+
+
 https://gh.tryxd.cn/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt,#genre#
 
 
@@ -2764,19 +2771,30 @@ CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTe
 CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 中国交通,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+冰冰影剧,http://www.goodiptv.club/douyu/74374
 古装武侠,http://www.goodiptv.club/douyu/2793084
-橙记港剧,http://www.goodiptv.club/douyu/4549169
-贝爷求生,http://www.goodiptv.club/douyu/9661369
+电影八点档,http://live.metshop.top/huya/880261?cdn=alicdn
+电影刘德华,http://live.metshop.top/huya/11342424?cdn=alicdn
+电影功夫片,http://live.metshop.top/huya/11352941?cdn=alicdn
+电影动作电影,http://live.metshop.top/huya/11602077?cdn=alicdn
+电影周星星,http://live.metshop.top/huya/11336587?cdn=alicdn
+电影嫣然影厅,http://live.metshop.top/huya/11601977?cdn=alicdn
+电影战争片,http://live.metshop.top/huya/21059574?cdn=alicdn
+电影搞笑喜剧,http://live.metshop.top/huya/11342423?cdn=alicdn
+电影犯罪片,http://live.metshop.top/huya/11352974?cdn=alicdn
+电影蜘蛛侠,http://live.metshop.top/huya/21059599?cdn=alicdn
+电影谍战,http://live.metshop.top/huya/21059585?cdn=alicdn
+电影谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
+美亚电影,http://zjrtv.vip/live/?tbs=mydy
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 七龙珠,https://live.metshop.top/huya/11601966
 韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
-武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 福建公共,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=2987cc24bada6a8c25589409a6452d9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 福建公共,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=1cf7fc3a8f6d160c33b43c2f9507a0cc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=8f26765ebf367079cef58c6b7752da1e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=221239fcf3c7edb274f2f0760fe47f96&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 玛纳斯,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
@@ -2922,24 +2940,33 @@ https://iptv-org.github.io/iptv/languages/zho.m3u,#genre#
 
 
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
+AccuWeatherNetwork,http://206.212.244.63/674/index.m3u8
 AWEInternational,https://a-cdn.klowdtv.com/live1/aweint/playlist.m3u8
 BabyTVLatinAmerica,http://179.60.51.134:8888/BABY-TV/index.m3u8
 BabyTVUS(576p),http://206.212.244.63/641/index.m3u8
 CBSNewsLosAngeles,https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
 DidgahTV(576p),https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
 DisneyJuniorWest,http://206.212.244.63/655/index.m3u8
+ESPNews,http://41.223.30.230/ESPNNEWS/index.m3u8
 GlobalWorldTV,https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
 HallmarkMovies&Mysteries,http://206.212.244.63/86/index.m3u8
 JuntosTV,https://live-evg8.tv360.bitel.com.pe/bitel/juntostvSRT/playlist.m3u8
 MLBStrikeZone,http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 Naruto,https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
 NBC6JohnstownPA(WJAC),https://linear-698.frequency.stream/dist/stirr/698/hls/master/playlist.m3u8
+OnceNinasyNinos(576p),http://45.189.62.33:8002/play/a0p7/index.m3u8
+OneAmericaNewsNetwork,http://40.160.24.55/ONE_AMERICA_NEWS/index.m3u8
+Ovation,http://40.160.24.55/OVATION/index.m3u8
+RaiWorldPremium,https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
+RFD-TV,http://40.160.24.55/RFD-TV/index.m3u8
 RTenEspanol,http://179.60.51.134:8888/RT/index.m3u8
 Screamfest,http://206.212.244.63/147/index.m3u8
 SportsTVPlus,https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now
 TeenNick,http://206.212.244.63/670/index.m3u8
+TVOne,http://40.160.24.55/TV_ONE/index.m3u8
 TVSHiTops,https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8
 TVSVintageNetwork(360p),https://rpn.bozztv.com/gusa/gusa-tvsvintage/index.m3u8
+USANetwork,http://40.160.24.55/USA_NETWORK/index.m3u8
 
 
 https://iptv-org.github.io/iptv/countries/tw.m3u,#genre#
