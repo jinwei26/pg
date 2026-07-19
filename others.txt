@@ -2537,7 +2537,10 @@ cctv-1hd,https://stream1.freetv.fun/fb9d0546553a21c4591a86f298dad5f4b1556dc13b03
 hoytv,https://stream1.freetv.fun/a8a4700097401627b1a4c2b7e0ffa7f9077c33e3f37cc362d77403dccf954d24.ctv
 hoy资讯,https://stream1.freetv.fun/d131ddf4da2e19800696e9c1b73383b83493d2604fe64afcf79555d98c74529c.ctv
 now新闻,https://stream1.freetv.fun/9dec549cbac511cacca85d2e5738d965955eadcb5b4fe5974ae97fdf4733ae72.ctv
+tvbdrama,https://stream1.freetv.fun/f8e5d6a9e432820b8f7a922e6c4d6ad3d963432a02c9b6b70e494f00d2ba4f20.ctv
+tvbe,https://stream1.freetv.fun/b775f67a6992e86c12b144ba190e88ca4b63216fbbc78e6bf624e1b36b977d8c.ctv
 tvbj1,https://stream1.freetv.fun/0ec81d9c93874ceecf668ef57b76e5a59ee66db6bb26e523b9a7e90af0f4b46a.ctv
+tvb1,https://stream1.freetv.fun/935e9f6d1ba863acafd54f259827f84ee495c53e881408641b0652a4be9f0664.ctv
 tvb星河[geo-blocked],https://stream1.freetv.fun/1014774338dd6fcc6e3c0358712f55964ae23ffb1c8ff3a246979c2583fadff1.ctv
 tvb星河,https://stream1.freetv.fun/9bbb5f6b3fe726c6ed82737f4babafc986bc35e8b9a57840b28f69b623855886.ctv
 viutv,https://stream1.freetv.fun/855fcf2cb6242c3bbf91d073a966eefcecb239f58f03460b4947d32ee7785d2c.ctv
@@ -2545,7 +2548,6 @@ viutv,https://stream1.freetv.fun/855fcf2cb6242c3bbf91d073a966eefcecb239f58f03460
 周润发电影*$,https://stream1.freetv.fun/181ff4ff73e7320b2ad0795b6a8c32145f54bc8961354ab3160093641564b438.m3u8
 星空卫视*$,https://stream1.freetv.fun/c699f8d5e9d547dd164dd3f4990d2974ef3fa73b3f4f82678fa854610dd0edff.m3u8
 林正英影院*$,https://stream1.freetv.fun/34b9e858a6ac4dbf8019192458fe6c81c77298a350702158b8182ac937f47235.m3u8
-翡翠台*$,https://stream1.freetv.fun/dc4e80b4f74d315950fd92efa35595ee23b4fe79f86c8087383c7881ab3c3a74.m3u8
 翡翠,https://stream1.freetv.fun/2d6d5de01dfd6fdcaaf4fe4b5ab0188eb1849a91fee22cc73276e6737ce055a8.ctv
 凤凰美洲,https://stream1.freetv.fun/76ef8c10f042b9142b669c599d0d59dd5f69b719026a656b6b04a6912a92a553.ctv
 凤凰美洲,https://stream1.freetv.fun/d422c1395d47f67115f7cbbba39d542732aee2c0d21da679794d27600fe128f3.ctv
@@ -2575,49 +2577,23 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-
 
 
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
-CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
-CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-中国交通,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-冰冰影剧,http://www.goodiptv.club/douyu/74374
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
-古装武侠,http://www.goodiptv.club/douyu/2793084
-橙记港剧,http://www.goodiptv.club/douyu/4549169
 电影喜剧专场,http://live.metshop.top/huya/11602044?cdn=alicdn
 电影嫣然影厅,http://live.metshop.top/huya/11601977?cdn=alicdn
 电影搞笑喜剧,http://live.metshop.top/huya/11342423?cdn=alicdn
 电影犯罪片,http://live.metshop.top/huya/11352974?cdn=alicdn
 电影贺岁,http://live.metshop.top/huya/11601971?cdn=alicdn
-贝爷求生,http://www.goodiptv.club/douyu/9661369
-韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
+福建公共,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=1cf7fc3a8f6d160c33b43c2f9507a0cc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=221239fcf3c7edb274f2f0760fe47f96&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 玛纳斯,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-1993年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
-1994年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
-1995年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
-1996年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
-2000年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
-2001年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
-2002年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
-2003年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
-2004年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
-2005年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
-2006年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
-2007年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
-2009年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
-2010年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
-2013年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
-2014年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
-2018年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
 
 
 https://jihulab.com/-/snippets/5265/raw/main/.txt,#genre#
@@ -2763,9 +2739,10 @@ CoziTV,http://206.212.244.63/49/index.m3u8
 DaystarEspañol,https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8
 Degrassi,https://d3537vnymvfque.cloudfront.net/playlist.m3u8
 DisneyChannelWest,http://206.212.244.63/3146/index.m3u8
-DisneyJunior,http://190.14.10.19:16000/play/a02d/index.m3u8
+DisneyJunior,http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 ESPNews,http://41.223.30.230/ESPNNEWS/index.m3u8
 FETV,http://206.212.244.63/60/index.m3u8
+Fox,http://stream.cammonitorplus.net/1752/index.m3u8
 FoxNewsChannel,http://41.205.77.102/FOX-NEWS/index.m3u8
 FoxSports2,https://streamvidex.qzz.io/videx/fox2usa/index.m3u8
 Freeform,http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
