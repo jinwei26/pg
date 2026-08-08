@@ -4833,7 +4833,6 @@ PBSKids,https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/e
 QVC2,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 Showtime,http://40.160.24.55/SHOWTIME/index.m3u8
 Telemundo,http://45.190.13.8/TelemundoHD/index.m3u8
-TelemundoWest[Geo-blocked],https://messi.damitv.st/papi/ts/telemundo-usa/playlist.m3u8
 TUDN[Geo-blocked],https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 TVSTavern,https://rpn.bozztv.com/gusa/gusa-tavern/index.m3u8
 VevoCountry,https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
