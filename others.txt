@@ -2651,9 +2651,11 @@ https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
 cctv-5体育,https://stream1.freetv.fun/879e5711563465069616775f329a9231f38887c8146e7e06f2a86f766caa774d.ctv
+cctv1,https://stream1.freetv.fun/995b83478c4c70b15ba27c4a49a23df6f859abbc68948a118e5734a8f1c1c1db.m3u8
 cctv1综合,https://stream1.freetv.fun/e2d614c15f9f44a66769286821f4e204843fbb1ea976d65e2e7380425aa5b412.ctv
 cctv1综合,https://stream1.freetv.fun/5018fc141cbd5d5263b2a854286af87c88b69a2a2ba6919ac4e42d6188a5bc81.ctv
 cctv1,https://stream1.freetv.fun/9b27262386aa6dcea6f0caf47d6ac2d64d0d956dc3a69f0ad78f166dde78e94b.m3u8
+cctv1,https://stream1.freetv.fun/95cc7a9a16c9974d8c981d42c9a213879904ab744e95150717697089791ab4f0.m3u8
 now新闻,https://stream1.freetv.fun/9dec549cbac511cacca85d2e5738d965955eadcb5b4fe5974ae97fdf4733ae72.ctv
 周星驰电影*$,https://stream1.freetv.fun/bedafa2f83a8fd0cb71918ac83582f6dd3ad25c6da27869e38a2e9bd25825a26.m3u8
 周润发电影*$,https://stream1.freetv.fun/181ff4ff73e7320b2ad0795b6a8c32145f54bc8961354ab3160093641564b438.m3u8
@@ -2662,7 +2664,6 @@ now新闻,https://stream1.freetv.fun/9dec549cbac511cacca85d2e5738d965955eadcb5b4
 星空卫视*$,https://stream1.freetv.fun/c699f8d5e9d547dd164dd3f4990d2974ef3fa73b3f4f82678fa854610dd0edff.m3u8
 林正英影院*$,https://stream1.freetv.fun/34b9e858a6ac4dbf8019192458fe6c81c77298a350702158b8182ac937f47235.m3u8
 翡翠,https://stream1.freetv.fun/ad698c68f995a760534e836438ea8e8bc65abf16cd0ed1d6b8e005cd9b90913c.m3u8
-翡翠,https://stream1.freetv.fun/ec738c8f8b5d5706670eb42e4fe79edc5d6f471ba93d0eb20dff4c372efef4db.m3u8
 翡翠,https://stream1.freetv.fun/8a31735d012894cb8c275ebf1a898a3bb42f7201dd54d6d1201d724877fd9c19.m3u8
 凤凰电影*$,https://stream1.freetv.fun/857fbc509d99a650aa2fcc8378757a498c921707045def964734f7960accbe7b.m3u8
 
@@ -2685,44 +2686,8 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-
 
 
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
-海峡卫视,http://58.56.162.102:4466/newlive/live/hls/27/live.m3u8
-海峡卫视,http://120.40.39.246:352/newlive/live/hls/27/live.m3u8
-南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
-广东影视,http://171.38.148.188:9003/hls/38/index.m3u8
-电影丧尸片,http://live.metshop.top/huya/21059578?cdn=alicdn
-电影八点档,http://live.metshop.top/huya/880261?cdn=alicdn
-电影刘德华,http://live.metshop.top/huya/11342424?cdn=alicdn
-电影功夫片,http://live.metshop.top/huya/11352941?cdn=alicdn
-电影动作电影,http://live.metshop.top/huya/11602077?cdn=alicdn
-电影周星星,http://live.metshop.top/huya/11336587?cdn=alicdn
-电影喜剧专场,http://live.metshop.top/huya/11602044?cdn=alicdn
-电影嫣然影厅,http://live.metshop.top/huya/11601977?cdn=alicdn
-电影战争片,http://live.metshop.top/huya/21059574?cdn=alicdn
-电影搞笑喜剧,http://live.metshop.top/huya/11342423?cdn=alicdn
-电影梁家辉,http://live.metshop.top/huya/11342429?cdn=alicdn
-电影犯罪片,http://live.metshop.top/huya/11352974?cdn=alicdn
-电影蜘蛛侠,http://live.metshop.top/huya/21059599?cdn=alicdn
-电影谍战,http://live.metshop.top/huya/21059585?cdn=alicdn
-电影谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
-电影贺岁,http://live.metshop.top/huya/11601971?cdn=alicdn
-电影高分动作,http://live.metshop.top/huya/11352884?cdn=alicdn
-美亚电影,http://zjrtv.vip/live/?tbs=mydy
-广东少儿,http://171.38.148.188:9003/hls/45/index.m3u8
-句容党建,http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
-句容生活,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-合肥新闻,http://112.27.235.94:8000/hls/18/index.m3u8
-安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
-常熟民生,http://3gvod.zjgonline.com.cn:1935/live/_definst_/shehuishenghuo_app/chunklist.m3u8
-广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
-延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
-昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
-武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
-武进生活,http://live.wjyanghu.com/live/CH2.m3u8
-黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 玛纳斯,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
-音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 
 
 https://jihulab.com/-/snippets/5265/raw/main/.txt,#genre#
@@ -2849,24 +2814,31 @@ https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
 24HourFreeMovies,https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 AccessSacramentoChannel17,https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8
 BabyFirstSpanish,http://168.228.44.241:9997/play/a07u/index.m3u8
+Bravo,http://41.205.93.154/BRAVO/index.m3u8
 CBSNewsBoston,https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
 CinemaxLatino,https://streamer.metronethn.com/Cinemax/index.m3u8
 DisneyChannel[Geo-blocked],http://212.5.144.156/disney/index.m3u8
 ESPNDeportesHD,https://gpuserver7.tier1streams.com/ESPN_DEPORTES/index.m3u8
 ESPNUHD,http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 FilmRiseClassicTV,https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
+FoxBusinessNetwork,http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8
 FoxNewsChannel,http://45.190.28.50/FOX_NEWS/index.m3u8
 fuboSportsNetwork,https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
 FXMovieChannelHD,https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8
 GlobalChristianNetworkAmerica(GCN),http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_1300k.stream/playlist.m3u8
+NickJr.,https://sra72yz.s.gy/NICK_JR_US.m3u8
 Nicktoons,https://sra72yz.s.gy/NICKTOONS_US.m3u8
 PacificIslandNetwork,https://cdn.vegasplus.us/vegas/mpin/playlist.m3u8
 Portlandia,https://d1uvnirn6lhs2f.cloudfront.net/playlist.m3u8
 RTRPlanetaUSA[Geo-blocked],https://stream.smotrim.ru/hls/planeta_rtr_usa/playlist.m3u8?entity=channel&id=513&sign=3ac5d8e2db71ef7fc3d4becbff7512d8
 TBNAsia,https://streams.comclark.com/pknsd/tbn/playlist.m3u8
+TeenNick(576p),http://tvsen7.aynascope.net/teennick/index.m3u8
+Telemundo,http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 TelemundoWest(2160p),http://168.228.44.241:9997/play/a07g/index.m3u8
+TUDN,http://45.190.13.8/TUDNHD/index.m3u8
 TVEInternacionalAmerica,https://streamer.metronethn.com/TVE/index.m3u8
 TVSClassicSports(360p),https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
+UnivisionEastHD,http://45.190.13.8/UnivisionHD/index.m3u8
 WATCThePOINTNetwork,https://tgn.bozztv.com/watc57/watc57-2/watc57-2/index.m3u8
 WLTV-DT23.1,http://168.228.44.241:9997/play/a09d/index.m3u8
 
