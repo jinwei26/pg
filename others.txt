@@ -2597,7 +2597,6 @@ rthk34,https://stream1.freetv.fun/2a53e02555bc6dac9fa31c3e7949817c9e1d70c81b210c
 tvbplus,https://stream1.freetv.fun/45b5e3b36b8de2cefeacb68ed46660185a95abb2ad353aaaaef7f7adc7f0f8ad.ctv
 etvplus,https://stream1.freetv.fun/f154902517f39c01a56296587c62613fee9c99bc97e5dc6867da9a187c96aa13.m3u8
 etvplus,https://stream1.freetv.fun/5b362aebd855060e561d01e79dc94046ca7229ba663b13080aeeb5410bbbdcef.m3u8
-tvb1[geo-blocked],https://stream1.freetv.fun/f297c4c2b0129696b30c596fe0741ec59b215c9db789bb10bba601dd3ba5f81e.ctv
 prime,https://stream1.freetv.fun/e6a2e56b74d1d5290d8219e1973f4b7b0bf1e85e98130a210eade1ede67360ef.m3u8
 prime,https://stream1.freetv.fun/1c11185599447b07797934e6323f5ed6cea551e71803978de70464f6161fb263.m3u8
 星空卫视*$,https://stream1.freetv.fun/c699f8d5e9d547dd164dd3f4990d2974ef3fa73b3f4f82678fa854610dd0edff.m3u8
@@ -2623,15 +2622,26 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-
 
 
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
-东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+刘德华电影,https://live.metshop.top/huya/11342424
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
+周星驰电影,https://live.metshop.top/huya/11342412
+成龙电影,https://live.metshop.top/huya/11342386
+李连杰电影,https://live.metshop.top/huya/11342390
+林正英电影,https://live.metshop.top/huya/11342421
+枪战电影,https://live.metshop.top/huya/21059579
+沈腾电影,https://live.metshop.top/huya/11601968
+野蛮亲家,https://live.metshop.top/huya/23863796
 句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
+新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"
+新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
-睢宁综合,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
+武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 玛纳斯,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
 
 https://jihulab.com/-/snippets/5265/raw/main/.txt,#genre#
@@ -2760,6 +2770,7 @@ BarRescue,https://jmp2.uk/plu-60a3d889a5b3690008dc7fe8.m3u8
 BestofDr.Phil,https://jmp2.uk/plu-666815f24b9fb400083f7e31.m3u8
 GenesisScienceNetwork,https://2-fss-1.streamhoster.com/pl_122/amlst:206018-2645902/playlist.m3u8
 HarmonyGospelMusicTV,https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8
+IraneFardaTV,https://iranefardalive.com/stream/live.m3u8
 NewKMOVIES,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus
 NewKPOP,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
 PlutoTVPride,https://jmp2.uk/plu-69fa3faab9c0f0d444e64de3.m3u8
