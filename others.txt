@@ -2303,14 +2303,14 @@ CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LST
 韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
+句容生活,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 长影频道,http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
-黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 玛纳斯,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 笑看风云,https://live.metshop.top/huya/29465858
-音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 1993年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
 1994年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
 1995年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
@@ -2480,9 +2480,11 @@ ABCWWAY3,https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754
 AccessMediaProductionsPeninsulaChannel,https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8
 AllWeddingsWeTV,https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
 AMC,http://23.239.31.26:8989/amc/index.m3u8
+AMCenEspanol,https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 America'sTestKitchen,https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
 ANIMExHIDIVE,https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
 ArkansasPBS[Geo-blocked],https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
+AspireTVLife,https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
 AVIRewind,http://45.70.201.81:8000/play/a010/index.m3u8
 BluesTV,https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 CBS2SaltLakeCityUT(KUTV),https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8
@@ -2497,6 +2499,7 @@ CBS12WestPalmBeachFL(WPEC),https://linear-692.frequency.stream/dist/stirr/692/hl
 CBS22SouthBendIN(WSBT),https://linear-693.frequency.stream/dist/stirr/693/hls/master/playlist.m3u8
 CBS42AustinTX(KEYE),https://linear-704.frequency.stream/dist/stirr/704/hls/master/playlist.m3u8
 CBSSportsHQ,https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
+CinemaxClassics,http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 CoastTVNBC(WRDE-LD)[Not24/7],https://live.field59.com/wrde/wrde1/playlist.m3u8
 ElectricNow,https://amg01705-amg01705c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
 FaithTV,https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
@@ -2515,6 +2518,8 @@ FoxWeather,https://247wlive.foxweather.com/stream/index.m3u8
 Freeform,http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
 GebTv(KBPXLD5),https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
 God'sLearningChannel,https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
+HBOHits,http://tvsen7.aynascope.net/hbo2/index.m3u8
+HBOMovies,http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 IONTV,http://23.237.104.106:8080/USA_ION/index.m3u8
 KATC3.1,http://stream.cammonitorplus.net/1753/index.m3u8
 KCKS-LD25.3,https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8
