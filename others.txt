@@ -2050,11 +2050,14 @@ https://live.hacks.tools/iptv/languages/zho.m3u,#genre#
 8TV,http://cdn6.163189.xyz/163189/8tv
 BRTV北京卫视,http://go.bkpcp.top/mg/bjws
 BRTV北京卫视[Not24/7],http://ivi.bupt.edu.cn/hls/btv1.m3u8
+ChuxiongNewsChannel[Not24/7],http://hwapi.yntv.net/ew265l/848y54.m3u8
 CTS(HUA-CHICTS),rtmp://59.124.75.138:1935/sat/tv111
 DragonTVInternational,https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
 HarbinMovieChannel,https://stream.hrbtv.net/yspd/playlist.m3u8
+Jade,http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 LanzhouComprehensiveNewsChannel,https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 LanzhouCulture&TourismChannel,https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
+MeiAhMovieChannel,http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
 NeiMonggolTV(960p),https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8
 NeiMonggolTV2MongolianCultureChannel,http://1.24.190.98:10080/hls/40/index.m3u8
 康巴卫视(576p),http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8
@@ -2219,9 +2222,9 @@ https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
 cctv-1hd,https://stream1.freetv.fun/7bcb9055df8789fe1d3ab53c3907e5a0aac9ecd18c827a5c94148e850d9ab4fe.m3u8
 cctv-4k超,https://stream1.freetv.fun/5d4213276b9703523ca4f8cbf694ad036106486cfa7c37443a8385da27dd3feb.m3u8
-cctv1,rtmp://yftv-wshls.yzbtv.cn/live/4387
 cctv1综合,https://stream1.freetv.fun/1fb3f86be0eebb643de89f0b93f912bf1b2c513819c63050a91cf9cdfe4ab196.ctv
 cctv-1hd,https://stream1.freetv.fun/fb9d0546553a21c4591a86f298dad5f4b1556dc13b03d1aaa1c17d787f27678e.m3u8
+meiahmoviechannel,https://stream1.freetv.fun/ce3a5476e6022f9eb86c819ec991fefc4a89e293f04bf7192d8e423b48a370c8.m3u8
 明珠,https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.ctv
 
 
@@ -2247,8 +2250,6 @@ CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 中国交通,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-东森洋片,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
-靖天映画,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
 刑事侦缉档案,https://live.metshop.top/huya/29465856
 刘德华电影,https://live.metshop.top/huya/11342424
 创世纪,https://live.metshop.top/huya/29465852
@@ -2301,11 +2302,14 @@ CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LST
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 黄渤电影,https://live.metshop.top/huya/11352876
+新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
-句容生活,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+中华特产,http://120.76.248.139/live/bfgd/4200000158.m3u8
+四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+环球旅游,http://120.76.248.139/live/bfgd/4200000147.m3u8
 长影频道,http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
@@ -2586,8 +2590,10 @@ PBSLincolnNE(KUON)[Geo-blocked],https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c145
 PBSMPTBaltimoreMD(WMPB),https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 PBSNewJerseyNJ(WNJT)[Not24/7],https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 PBSSedaliaBritishColumbiaMO(KMOS)[Geo-blocked],https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
+SFree!(360p),https://vodcdn.bamboo-cloud.com/livehls/6a81c67306304414d27742d3/master.m3u8
 SmurfTV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065
 StoryTelevision,https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
+TelemundoEastHD,https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
 TheConners,https://jmp2.uk/plu-66e2a94d167a8b000813485d.m3u8
 ThePetCollectiveInternational,https://the-pet-collective-international-dk.samsung.wurl.tv/playlist.m3u8
 ThePriceisRight:TheBarkerEra,https://jmp2.uk/plu-64c220e15dc1660008a79c96.m3u8
