@@ -2591,6 +2591,7 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-
 
 
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 刘德华电影,https://live.metshop.top/huya/11342424
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 周星驰电影,https://live.metshop.top/huya/11342412
@@ -2729,6 +2730,7 @@ https://iptv-org.github.io/iptv/languages/zho.m3u,#genre#
 
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
 AmericanHorrors,http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+FoxNewsChannel,http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 HCTVGovernmentChannel,https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8
 PBSKidsMountain,https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
 
