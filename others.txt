@@ -2421,6 +2421,7 @@ https://live.hacks.tools/iptv/languages/zho.m3u,#genre#
 BRTV北京卫视,http://go.bkpcp.top/mg/bjws
 CTS(HUA-CHICTS),rtmp://59.124.75.138:1935/sat/tv111
 HarbinMovieChannel,https://stream.hrbtv.net/yspd/playlist.m3u8
+tvNAsiaHD,http://58.8.186.128:10005/bysid/2518
 
 
 https://live.iptv-free.com/iptv/languages/zho.m3u,#genre#
@@ -2573,11 +2574,11 @@ https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
 cctv-12社会与法[geo-blocked],https://stream1.freetv.fun/8fec588fa09e356552f56f5e64a875f44c72f6ef785b0d2b4bbd6527f64e804e.ctv
 cctv-5体育[geo-blocked],https://stream1.freetv.fun/879e5711563465069616775f329a9231f38887c8146e7e06f2a86f766caa774d.ctv
-cctv-01[geo-blocked],https://stream1.freetv.fun/d38c8a04ea8806126f87e7695d9cb09ebc6fcbaf38d443b92a77d4e37d1eb2e9.ctv
 cctv-1,https://stream1.freetv.fun/aca593418a5d387996e89adf3a0452856e5623d7759d2ff35078a7e3968f47e8.m3u8
-cctv-1[geo-blocked],https://stream1.freetv.fun/4e7345ef85f31653e51c5cfe029256a93ae4a56361f120edf824f7b10d8c92aa.ctv
 cctv-4k超,https://stream1.freetv.fun/2e338d7416c3646f38a085799295f137668d96a80a4393b71f1b82735ebdc7e8.m3u8
 cctv-4k超,https://stream1.freetv.fun/3788e4fd295011461ce6ef1f10f19c7a7b379cd6adc4e7892222e5b140f1fb0f.m3u8
+truemoviehits,https://stream1.freetv.fun/fd0ec99f6927993f095e7a180e1a28051a9e687e4d409308f7cbfa78cf0ee364.ctv
+mahamovie,https://stream1.freetv.fun/add6cb23730d4627e6d07b38625043714265bb8ddb670d4d68d80820c78b0690.m3u8
 
 
 https://gh.tryxd.cn/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt,#genre#
@@ -2609,6 +2610,7 @@ https://live.zhoujie218.top/tv/iptv4.txt,#genre#
 沈腾电影,https://live.metshop.top/huya/11601968
 龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 玛纳斯,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
@@ -2736,6 +2738,7 @@ https://iptv-org.github.io/iptv/languages/zho.m3u,#genre#
 
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
 AmericanHorrors,http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+CBSKMOV,http://best.happytv.xyz:2082/live/JThibodeau0923/gcEyG7W3/2193473.m3u8
 CineSony,https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 CNBC,http://4.30.180.36:8420/cnbc/index.m3u8?token=test
 ComedyCentral,http://4.30.180.36:8420/comedycentral/index.m3u8?token=test
@@ -2744,6 +2747,7 @@ FoxNewsChannel,http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 Galavision[Geo-blocked],https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
 GalavisionWest[Geo-blocked],https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8
 HCTVGovernmentChannel,https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8
+KNino,https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/kninohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 LaffWJLP(576p),http://4.30.180.36:8420/laff/index.m3u8?token=test
 Lifetime,http://4.30.180.36:8420/lifetime/index.m3u8?token=test
 NickJr.,http://212.5.144.156:8080/nickjr/index.m3u8
