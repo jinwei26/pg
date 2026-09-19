@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz"
-#EXTINF:-1  tvg-name="20260919 06:22" tvg-logo="https://epg.112114.free.hr/logo/20260919 06:22.png"  group-title="更新时间",20260919 06:22
+#EXTINF:-1  tvg-name="20260920 06:09" tvg-logo="https://epg.112114.free.hr/logo/20260920 06:09.png"  group-title="更新时间",20260920 06:09
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://epg.112114.free.hr/logo/CCTV1.png"  group-title="央视频道",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -694,9 +694,9 @@ http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
 #EXTINF:-1  tvg-name="延边卫视" tvg-logo="https://epg.112114.free.hr/logo/延边卫视.png"  group-title="卫视频道",延边卫视
 http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 #EXTINF:-1  tvg-name="延边卫视" tvg-logo="https://epg.112114.free.hr/logo/延边卫视.png"  group-title="卫视频道",延边卫视
-https://srs.iyb983.cn/video/CYS/index.m3u8
-#EXTINF:-1  tvg-name="延边卫视" tvg-logo="https://epg.112114.free.hr/logo/延边卫视.png"  group-title="卫视频道",延边卫视
 https://srs.iyb983.cn:443/video/CYS/index.m3u8
+#EXTINF:-1  tvg-name="延边卫视" tvg-logo="https://epg.112114.free.hr/logo/延边卫视.png"  group-title="卫视频道",延边卫视
+https://srs.iyb983.cn/video/CYS/index.m3u8
 #EXTINF:-1  tvg-name="新疆卫视" tvg-logo="https://epg.112114.free.hr/logo/新疆卫视.png"  group-title="卫视频道",新疆卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 #EXTINF:-1  tvg-name="新疆卫视" tvg-logo="https://epg.112114.free.hr/logo/新疆卫视.png"  group-title="卫视频道",新疆卫视
@@ -1045,6 +1045,8 @@ http://8.138.7.223/tv/gdmzyd.php?id=2
 http://r.jdshipin.com/CkuBd
 #EXTINF:-1  tvg-name="TVB无线新闻" tvg-logo="https://epg.112114.free.hr/logo/TVB无线新闻.png"  group-title="港澳台",TVB无线新闻
 https://stream1.freetv.fun/b9fc79702a33d75d0fa4c22a19341be1a7120d111c47d9e109566b9d42020383.m3u8
+#EXTINF:-1  tvg-name="TVB无线新闻" tvg-logo="https://epg.112114.free.hr/logo/TVB无线新闻.png"  group-title="港澳台",TVB无线新闻
+https://stream1.freetv.fun/4290011e1af62ee2c9dea7a9015fec85668584edfd3a58caa60cee5a8684e6fa.ctv
 #EXTINF:-1  tvg-name="TVBS新闻" tvg-logo="https://epg.112114.free.hr/logo/TVBS新闻.png"  group-title="港澳台",TVBS新闻
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941622&extension=ts&play_token=E9ymAxKoVJ
 #EXTINF:-1  tvg-name="TVBS亚洲" tvg-logo="https://epg.112114.free.hr/logo/TVBS亚洲.png"  group-title="港澳台",TVBS亚洲

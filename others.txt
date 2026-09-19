@@ -2440,6 +2440,8 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-
 
 
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
+支持作者,https://vd2.bdstatic.com/mda-sctj0f96cn79js4n/1080p/cae_h264/1774710384405617311/mda-sctj0f96cn79js4n.mp4
+靖天映画,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
 刘德华电影,https://live.metshop.top/huya/11342424
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 周星驰电影,https://live.metshop.top/huya/11342412
@@ -2448,7 +2450,6 @@ https://live.zhoujie218.top/tv/iptv4.txt,#genre#
 林正英电影,https://live.metshop.top/huya/11342421
 枪战电影,https://live.metshop.top/huya/21059579
 沈腾电影,https://live.metshop.top/huya/11601968
-广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
@@ -2580,6 +2581,7 @@ https://iptv-org.github.io/iptv/languages/zho.m3u,#genre#
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
 Animation+[Geo-blocked],https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
 CBSKMOV,http://best.happytv.xyz:2082/live/JThibodeau0923/gcEyG7W3/2193473.m3u8
+Galavision[Geo-blocked],https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
 OnePiece,https://jmp2.uk/plu-69affcad8940750a23a7231a.m3u8
 SmartLifeStyleTV,https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
 TVSClassicSports(360p),https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
