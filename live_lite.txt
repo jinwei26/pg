@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260923 06:46,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+20260924 06:44,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
 
 央视频道,#genre#
@@ -190,7 +190,6 @@ CETV4,https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
 浙江卫视,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240134_1/playlist.m3u8?CONTENTID=00000110240134_1&AUTHINFO=FABqh274XDn8fkurD5614t+1RvYajgx+a3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom+XaXZYzB/QfYjeYzGgKhP/do+Xpr4quVxlkA+ubKvbU1XwJFRgrbX+nTs60JauQUrav8kLj/PH8LxkDFpzvkq75UfeY/VNDZygRZLw4j+Xtwhj/IuXf1hJAU0X+heT7g==&USERTOKEN=eHKuwve/35NVIR5qsO5XsuB0O2BhR0KR
 浙江卫视,http://154.36.187.125/histar5.php?id=117
 浙江卫视,http://154.36.187.125/histar5.php?id=zhejiang
-浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226336/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
@@ -354,8 +353,8 @@ CETV4,https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
-延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
 延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
+延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi?streamid=4f481f56ae39ce5d24203471de9df635&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
