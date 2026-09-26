@@ -2317,6 +2317,7 @@ https://git.gra.phite.ro/alantang/itv/raw/branch/main/tv.m3u,#genre#
 https://live.hacks.tools/iptv/languages/zho.m3u,#genre#
 BeijingSatelliteTVHD,http://go.bkpcp.top/mg/bjws
 CCTV13HD,http://go.bkpcp.top/mg/cctv13
+ChaozhouPublicChannel,http://113.64.146.48:1688/hls/4/index.m3u8
 CTS,rtmp://59.124.75.138:1935/sat/tv111
 HarbinMovieChannel,https://stream.hrbtv.net/yspd/playlist.m3u8
 QTV-3,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
@@ -2487,6 +2488,7 @@ https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
+prime,https://stream1.freetv.fun/1c11185599447b07797934e6323f5ed6cea551e71803978de70464f6161fb263.m3u8
 
 
 https://gh.tryxd.cn/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt,#genre#
@@ -2672,8 +2674,12 @@ https://iptv-org.github.io/iptv/languages/zho.m3u,#genre#
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
 AmericanHorrors,http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 BBCEarthUS,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+CinemaxActionEastHD,https://sra72yz.s.gy/CINEMAX_ACTION_HD.m3u8
 FaithTV,https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
+HBODrama,https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8
 NewK-POP,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
+NickJr.(UnitedStates)EastHD,https://sra72yz.s.gy/NICK_JR_HD.m3u8
+Nicktoons(UnitedStates),https://sra72yz.s.gy/NICKTOONS_HD.m3u8
 TVSFilmNoirNetwork,https://rpn.bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8
 
 
