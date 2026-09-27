@@ -2488,7 +2488,8 @@ https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
-prime,https://stream1.freetv.fun/1c11185599447b07797934e6323f5ed6cea551e71803978de70464f6161fb263.m3u8
+cctv1综合,https://stream1.freetv.fun/e2d614c15f9f44a66769286821f4e204843fbb1ea976d65e2e7380425aa5b412.ctv
+cctv1综合,https://stream1.freetv.fun/1fb3f86be0eebb643de89f0b93f912bf1b2c513819c63050a91cf9cdfe4ab196.ctv
 
 
 https://gh.tryxd.cn/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt,#genre#
@@ -2677,10 +2678,15 @@ BBCEarthUS,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStu
 CinemaxActionEastHD,https://sra72yz.s.gy/CINEMAX_ACTION_HD.m3u8
 FaithTV,https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
 HBODrama,https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8
+KBSAmerica,https://xyktmobile00.s.gy/PPV918_KBSAMERI
+NewChannel,https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8
+NewChannelPop!,https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
 NewK-POP,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
 NickJr.(UnitedStates)EastHD,https://sra72yz.s.gy/NICK_JR_HD.m3u8
 Nicktoons(UnitedStates),https://sra72yz.s.gy/NICKTOONS_HD.m3u8
+SPlayEvent,https://vodcdn.bamboo-cloud.com/livehls/6a9f929f0630443af52c7162/master.m3u8
 TVSFilmNoirNetwork,https://rpn.bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8
+UniversalCinema,http://45.167.1.138:8000/play/a06m
 
 
 https://iptv-org.github.io/iptv/countries/tw.m3u,#genre#
