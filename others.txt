@@ -2478,11 +2478,10 @@ https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
 cctv-12社会与法[geo-blocked],https://stream1.freetv.fun/8fec588fa09e356552f56f5e64a875f44c72f6ef785b0d2b4bbd6527f64e804e.ctv
+cctv1综合,https://stream1.freetv.fun/1fb3f86be0eebb643de89f0b93f912bf1b2c513819c63050a91cf9cdfe4ab196.ctv
 now新闻,https://stream1.freetv.fun/20616f66b86683e10fd7ea8e601cf70ac08ba2a8b3c17241fcf398fcdec43753.ctv
-nowatv,https://stream1.freetv.fun/b107a22bf69195baf2e4a7f6ce4bc1d17d6385d0cfcdf4818af97990f655c252.m3u8
 tvbplus,https://stream1.freetv.fun/70d6657916cfa5ded14dcf78c81e9a726d3e649581659fd0c6d550ac1f3fe0ee.ctv
-tvb翡翠[geo-blocked],https://stream1.freetv.fun/99bb646a71d6fb69f3287af93bc08e97e334d626c7889509579bf47e76b641f8.ctv
-prime,https://stream1.freetv.fun/1c11185599447b07797934e6323f5ed6cea551e71803978de70464f6161fb263.m3u8
+翡翠,https://stream1.freetv.fun/ec738c8f8b5d5706670eb42e4fe79edc5d6f471ba93d0eb20dff4c372efef4db.m3u8
 翡翠台[geo-blocked],https://stream1.freetv.fun/f47d16542d51e01285a1b9ce86acd63ff3f5522b3a256f392628327f068a63fa.ctv
 
 
@@ -2515,6 +2514,7 @@ https://live.zhoujie218.top/tv/iptv4.txt,#genre#
 电影八点档,http://live.metshop.top/huya/880261?cdn=alicdn
 句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 玛纳斯,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
