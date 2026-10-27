@@ -2470,16 +2470,8 @@ https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
-cctv-1hd,https://stream1.freetv.fun/5c2643aa787dcf394c083f4b9b4e085cfd6f088a2e6920e19ec5e5026a6f01dc.m3u8
 cctv-1,https://stream1.freetv.fun/4e7345ef85f31653e51c5cfe029256a93ae4a56361f120edf824f7b10d8c92aa.m3u8
-moviepunjab,https://stream1.freetv.fun/7ca4de9b47fceab7504ee66ca71897fea6e2c4060bb2c78663e15c01c5c7049d.m3u8
-tvbplus,https://stream1.freetv.fun/6ade45822dc9265d4aba6c1854bfd6a2635b13d96624929150024f662eca25d7.ctv
-prime,https://stream1.freetv.fun/e6a2e56b74d1d5290d8219e1973f4b7b0bf1e85e98130a210eade1ede67360ef.m3u8
-翡翠,https://stream1.freetv.fun/b6805e649e0c7b8193b4fd6d6b407675b3254a0eca4b30ef8ed033b5202b285e.ctv
 翡翠,https://stream1.freetv.fun/7626cd1e0830deb6cc37d51b751648e27e25c8136a22f61f6bb6ce5a85dcb0c4.m3u8
-凤凰中文480p,https://stream1.freetv.fun/cd5a575c8359068bb203586ddb3b744456e1ae365ba0f255e13927491d14519c.ctv
-凤凰资讯480p,https://stream1.freetv.fun/c767db781863761bfe6bdfc5b40e7964104fbc84ba79cd81c02fecc414438998.ctv
-凤凰香港480p,https://stream1.freetv.fun/b9bee5a9f4ade90b0352409b33a29854bb10760a22e3d798cb4b4ad4b40f20b4.ctv
 
 
 https://gh.tryxd.cn/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt,#genre#
@@ -2500,7 +2492,9 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-
 
 
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
+支持作者,https://vd2.bdstatic.com/mda-sctj0f96cn79js4n/1080p/cae_h264/1774710384405617311/mda-sctj0f96cn79js4n.mp4
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
+新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 玛纳斯,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
@@ -2723,6 +2717,7 @@ CCTV13_,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV1_,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV2_,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV3_,http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV5+_,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 CCTV7_,http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV10_,http://74.91.26.218:82/live/cctv10hd.m3u8
 CCTV8_,http://74.91.26.218:82/live/cctv8hd.m3u8
