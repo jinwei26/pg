@@ -2470,7 +2470,6 @@ https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
-cctv-1,https://stream1.freetv.fun/4e7345ef85f31653e51c5cfe029256a93ae4a56361f120edf824f7b10d8c92aa.m3u8
 翡翠,https://stream1.freetv.fun/7626cd1e0830deb6cc37d51b751648e27e25c8136a22f61f6bb6ce5a85dcb0c4.m3u8
 
 
@@ -2494,7 +2493,6 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
 支持作者,https://vd2.bdstatic.com/mda-sctj0f96cn79js4n/1080p/cae_h264/1774710384405617311/mda-sctj0f96cn79js4n.mp4
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
-新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 玛纳斯,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
@@ -2624,16 +2622,30 @@ https://iptv-org.github.io/iptv/languages/zho.m3u,#genre#
 
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
 AmericanHorrors,http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+beINSPORTSXTRAenEspanol,https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+Cars.TV,https://a-cdn.klowdtv.com/live2/carstv_720p/playlist.m3u8
+CartoonNetwork(UnitedStates)[Geo-blocked],http://212.5.144.156:8080/cartoon/index.m3u8
 CBSNewsPittsburgh,https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
+ComedyTV(UnitedStates),https://a-cdn.klowdtv.com/live2/comedytv_720p/playlist.m3u8
 DaystarTV,https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
 DisneyXD(UnitedStates),http://89.187.179.148:826/1368/gXwiagaXda/1672
+ESTV(UnitedStates),https://a-cdn.klowdtv.com/live2/estv_720p/playlist.m3u8
 FairgroundAICreatorTV,https://jmp2.uk/rok-b484db42f3d31b6dc2f604d453c694a0.m3u8
 Fox(UnitedStates)KDFW,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
 HGTV(UnitedStates),http://tvsen7.aynascope.net/hgtv/index.m3u8
+INSP,https://a-cdn.klowdtv.com/live2/insp_720p/playlist.m3u8
+JusticeCentralTV,https://a-cdn.klowdtv.com/live2/justicecentral_720p/playlist.m3u8
+MNTWOIO,https://live-streaming-mcdn.api.graylive.quickplay.com/woio-xos1-input-1/woio-xos1-input-1.isml/woio-xos1-input-1-audio_eng=96000-video=388000.m3u8
+MyDestination.TV,https://a-cdn.klowdtv.com/live2/mydestinationtv_720p/playlist.m3u8
 NewK-POP,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
 NFLChannel,https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
 NRBTV,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=15811
+ParamountNetwork,http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+Pets.TV,https://a-cdn.klowdtv.com/live2/petstv_720p/playlist.m3u8
+RecipeTV,https://a-cdn.klowdtv.com/live2/recipetv_720p/playlist.m3u8
 TheChallenge,https://jmp2.uk/plu-5d48685da7e9f476aa8a1888.m3u8
+TheGrioTV,https://a-cdn.klowdtv.com/live2/thegrio_720p/playlist.m3u8
+TVEInternacionalAmerica,http://116.121.59.72:9981/stream/channel/75f703b52ec2465e4ed2934b98f0f77a
 
 
 https://iptv-org.github.io/iptv/countries/tw.m3u,#genre#
@@ -2709,6 +2721,8 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs
 
 
 https://iptv.b2og.com/txt/fmml_ipv6.txt,#genre#
+
+
 https://m3u.ibert.me/txt/fmml_dv6.txt,#genre#
 https://m3u.ibert.me/txt/o_cn.txt,#genre#
 Xinjiang_TV_2,http://110.153.180.106:55555/out_3/index.m3u8
