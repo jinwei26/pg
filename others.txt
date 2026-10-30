@@ -2198,6 +2198,8 @@ CTS,rtmp://59.124.75.138:1935/sat/tv111
 DongguanComprehensiveNewsChannel,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 GodStandsKidsClubTVChinese,https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
 HarbinMovieChannel,https://stream.hrbtv.net/yspd/playlist.m3u8
+JingmenComprehensiveNewsChannel,https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036
+TTVNews,https://live.wcetv.com/hls/master-ttvnews.m3u8
 
 
 https://live.iptv-free.com/iptv/languages/zho.m3u,#genre#
@@ -2355,6 +2357,10 @@ https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
+cctv-1,https://stream1.freetv.fun/9f1b84dd3a947a7915d0bc74607ef26453ecebe1bbc5d5c0fa624007ac18b0ec.m3u8
+etvplus,https://stream1.freetv.fun/8173d90ec9bd3b1d59a1a4a7a0d378d2322697a3d8412caffb4c6da6913e555b.m3u8
+tvpuls,https://stream1.freetv.fun/584826faad23e8b9c5e5cdeb8c4f8ad2e22343d0035df868bb525489a75c3654.m3u8
+prime,https://stream1.freetv.fun/e6a2e56b74d1d5290d8219e1973f4b7b0bf1e85e98130a210eade1ede67360ef.m3u8
 
 
 https://gh.tryxd.cn/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt,#genre#
@@ -2375,6 +2381,7 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-
 
 
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
+支持作者,https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
@@ -2506,9 +2513,11 @@ https://iptv-org.github.io/iptv/languages/zho.m3u,#genre#
 
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
 AmericanHorrors,http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+HBCU-GOSports,https://a-cdn.klowdtv.com/live3/hbcugo_720p/playlist.m3u8
 MBCAmerica,https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
 NewK-POP,https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
 PBCTVChannel20,https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8
+SonyMovies(UnitedStates),https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 
 
 https://iptv-org.github.io/iptv/countries/tw.m3u,#genre#
