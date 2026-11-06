@@ -2266,9 +2266,17 @@ https://live.hacks.tools/iptv/languages/zho.m3u,#genre#
 BeijingSatelliteTVHD,http://go.bkpcp.top/mg/bjws
 CCTV13HD,http://go.bkpcp.top/mg/cctv13
 CTS,rtmp://59.124.75.138:1935/sat/tv111
+DongguanComprehensiveNewsChannel,http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
+FujianComprehensiveChannel,http://120.39.52.202:5140/福建综合
+GuangxiVariety&TravelChannel,http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
 HarbinMovieChannel,https://stream.hrbtv.net/yspd/playlist.m3u8
 KIX,https://freem3u.xyz/api/live/play.m3u8?vid=9901
 LanzhouComprehensiveNewsChannel,https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
+MeiAhMovieChannel,http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
+QTV-1,http://119.166.53.110:85/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1
+QTV-3,http://119.166.53.110:85/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
+QTV-4,http://119.166.53.110:85/tsfile/live/1004_1.m3u8?authid=0&key=txiptv&playlive=1
+QTV-6,http://119.166.53.110:85/tsfile/live/0002_1.m3u8?authid=0&key=txiptv&playlive=1
 
 
 https://live.iptv-free.com/iptv/languages/zho.m3u,#genre#
@@ -2424,6 +2432,11 @@ https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u,#genre#
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u,#genre#
+vijuplusserial,https://stream1.freetv.fun/6ace9875c5c4c15f1bc1e74e6531a7ddb03018ac41fb08f9124e916b1e5fc04f.m3u8
+vijuplusmegahit,https://stream1.freetv.fun/d99c30d4bf43a0a78f63a6fb790551d4611e2d8b2966d44abe664662be0247cd.m3u8
+news12pluslongisland[geo-blocked],https://stream1.freetv.fun/65863b150a9cc44389ad0f3d10dc2da9b74a2957c88f1f7668bb631a2c29ce24.m3u8
+samacharplus24x7,https://stream1.freetv.fun/26ba6f7fc2f982edc30c9b0404d30f4bcb8ea5e184e887d2f3e9145baeb06287.m3u8
+themovieclub,https://stream1.freetv.fun/2ce573e25208bd1625350e6a9adb61ecec2e0aaad023fa2fe55173128037c7e6.m3u8
 
 
 https://gh.tryxd.cn/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt,#genre#
@@ -2444,7 +2457,10 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-
 
 
 https://live.zhoujie218.top/tv/iptv4.txt,#genre#
-东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
+句容生活,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+睢宁综合,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 
 
 https://jihulab.com/-/snippets/5265/raw/main/.txt,#genre#
@@ -2565,14 +2581,6 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/m
 
 
 https://iptv-org.github.io/iptv/languages/zho.m3u,#genre#
-DongguanComprehensiveNewsChannel,http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
-FujianComprehensiveChannel,http://120.39.52.202:5140/福建综合
-GuangxiVariety&TravelChannel,http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
-MeiAhMovieChannel,http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
-QTV-1,http://119.166.53.110:85/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1
-QTV-3,http://119.166.53.110:85/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
-QTV-4,http://119.166.53.110:85/tsfile/live/1004_1.m3u8?authid=0&key=txiptv&playlive=1
-QTV-6,http://119.166.53.110:85/tsfile/live/0002_1.m3u8?authid=0&key=txiptv&playlive=1
 
 
 https://iptv-org.github.io/iptv/countries/us.m3u,#genre#
